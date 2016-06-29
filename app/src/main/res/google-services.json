@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "153864651871",
+    "firebase_url": "https://newsamehproj.firebaseio.com",
+    "project_id": "newsamehproj",
+    "storage_bucket": "newsamehproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153864651871:android:8c30a9fc0fa082ee",
+        "android_client_info": {
+          "package_name": "com.abs.samih.fcm_ex01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153864651871-hksjukdhihdr8ba3nc7kk1ook057k4et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abs.samih.fcm_ex01",
+            "certificate_hash": "133EC64A9D61D98E817F5F6C766D2458221CCA31"
+          }
+        },
+        {
+          "client_id": "153864651871-m3ii4milb5c5jd6eme3p4u35gj9qtqtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgquwci4ohoSf2z_U_YJANzFsbz6nLG1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153864651871-m3ii4milb5c5jd6eme3p4u35gj9qtqtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
